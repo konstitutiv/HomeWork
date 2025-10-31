@@ -1,0 +1,62 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "張三",
+      "email": "zhangsan@email.com",
+      "birth_date": "1980-05-15"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "email": "lisi@email.com",
+      "birth_date": "1975-12-01"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "email": "wangwu@email.com",
+      "birth_date": "1990-08-22"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "小說",
+      "description": "虛構故事"
+    },
+    {
+      "id": 2,
+      "name": "科技",
+      "description": "技術相關書籍"
+    },
+    {
+      "id": 3,
+      "name": "歷史",
+      "description": "歷史相關內容"
+    }
+  ],
+  "books": [
+    {
+      "title": "Python入門",
+      "author__name": "張三",
+      "category__name": "科技",
+      "publish_date": "2023-01-15",
+      "price": "350.00"
+    },
+    {
+      "title": "Web開發實戰",
+      "author__name": "李四",
+      "category__name": "科技",
+      "publish_date": "2023-03-20",
+      "price": "420.50"
+    },
+    {
+      "title": "明朝那些事兒",
+      "author__name": "王五",
+      "category__name": "歷史",
+      "publish_date": "2023-02-10",
+      "price": "280.00"
+    }
+  ]
+}

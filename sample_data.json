@@ -1,0 +1,193 @@
+{
+  "authors": [
+    {
+      "name": "張三",
+      "email": "zhangsan@email.com",
+      "birth_date": "1980-05-15"
+    },
+    {
+      "name": "李四", 
+      "email": "lisi@email.com",
+      "birth_date": "1975-12-01"
+    },
+    {
+      "name": "王五",
+      "email": "wangwu@email.com", 
+      "birth_date": "1990-08-22"
+    },
+    {
+      "name": "趙六",
+      "email": "zhaoliu@email.com",
+      "birth_date": "1985-03-10"
+    },
+    {
+      "name": "陳七",
+      "email": "chenqi@email.com",
+      "birth_date": "1992-11-25"
+    }
+  ],
+  "categories": [
+    {
+      "name": "小說",
+      "description": "虛構故事"
+    },
+    {
+      "name": "科技",
+      "description": "技術相關書籍"
+    },
+    {
+      "name": "歷史",
+      "description": "歷史相關內容"
+    },
+    {
+      "name": "科學",
+      "description": "自然科學"
+    },
+    {
+      "name": "文學",
+      "description": "文學作品"
+    }
+  ],
+  "books": [
+    {
+      "title": "Python入門",
+      "author_name": "張三",
+      "category_name": "科技", 
+      "publish_date": "2023-01-15",
+      "price": "350.00"
+    },
+    {
+      "title": "Web開發實戰",
+      "author_name": "李四",
+      "category_name": "科技",
+      "publish_date": "2023-03-20", 
+      "price": "420.50"
+    },
+    {
+      "title": "Django從入門到精通",
+      "author_name": "張三",
+      "category_name": "科技",
+      "publish_date": "2023-05-10",
+      "price": "380.00"
+    },
+    {
+      "title": "資料庫設計原理", 
+      "author_name": "李四",
+      "category_name": "科技",
+      "publish_date": "2023-07-22",
+      "price": "320.75"
+    },
+    {
+      "title": "演算法導論",
+      "author_name": "王五", 
+      "category_name": "科技",
+      "publish_date": "2023-09-30",
+      "price": "450.00"
+    },
+    {
+      "title": "明朝那些事兒",
+      "author_name": "王五",
+      "category_name": "歷史",
+      "publish_date": "2023-02-10",
+      "price": "280.00"
+    },
+    {
+      "title": "三國演義",
+      "author_name": "趙六", 
+      "category_name": "歷史",
+      "publish_date": "2023-04-05",
+      "price": "295.50"
+    },
+    {
+      "title": "中國通史",
+      "author_name": "陳七",
+      "category_name": "歷史",
+      "publish_date": "2023-06-18", 
+      "price": "360.00"
+    },
+    {
+      "title": "世界文明史",
+      "author_name": "趙六",
+      "category_name": "歷史",
+      "publish_date": "2023-08-12",
+      "price": "410.25"
+    },
+    {
+      "title": "流浪地球", 
+      "author_name": "陳七",
+      "category_name": "小說",
+      "publish_date": "2023-10-08",
+      "price": "270.00"
+    },
+    {
+      "title": "時間的旅人",
+      "author_name": "張三",
+      "category_name": "小說",
+      "publish_date": "2023-11-15", 
+      "price": "290.00"
+    },
+    {
+      "title": "迷霧之城",
+      "author_name": "李四",
+      "category_name": "小說",
+      "publish_date": "2023-12-20",
+      "price": "310.50"
+    },
+    {
+      "title": "宇宙的奧秘", 
+      "author_name": "王五",
+      "category_name": "科學",
+      "publish_date": "2024-01-10",
+      "price": "340.00"
+    },
+    {
+      "title": "生物多樣性",
+      "author_name": "趙六",
+      "category_name": "科學",
+      "publish_date": "2024-02-14", 
+      "price": "330.75"
+    },
+    {
+      "title": "詩詞精選",
+      "author_name": "陳七",
+      "category_name": "文學",
+      "publish_date": "2024-03-01",
+      "price": "260.00"
+    },
+    {
+      "title": "現代散文集", 
+      "author_name": "張三",
+      "category_name": "文學",
+      "publish_date": "2024-03-15",
+      "price": "275.00"
+    },
+    {
+      "title": "深度學習實戰",
+      "author_name": "李四",
+      "category_name": "科技",
+      "publish_date": "2024-04-01", 
+      "price": "480.00"
+    },
+    {
+      "title": "唐詩三百首",
+      "author_name": "王五",
+      "category_name": "文學",
+      "publish_date": "2024-04-10",
+      "price": "240.00"
+    },
+    {
+      "title": "物理學講義", 
+      "author_name": "趙六",
+      "category_name": "科學",
+      "publish_date": "2024-04-15",
+      "price": "390.00"
+    },
+    {
+      "title": "編程思想",
+      "author_name": "陳七",
+      "category_name": "科技",
+      "publish_date": "2024-04-20", 
+      "price": "420.00"
+    }
+  ]
+}
